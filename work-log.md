@@ -1,6 +1,6 @@
 #This is Heading
 
-## Second Heading Size\
+## Second Heading Size
 
 ### Third
 
